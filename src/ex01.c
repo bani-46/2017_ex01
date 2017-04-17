@@ -21,6 +21,7 @@ int main(int argc, char *argv[])
 	 * 第2引数および第3引数が指定されていない場合は、
 	 * 第1引数で指定したURLで示されるhttpサーバ（上述の例であれば、 www.is.kit.ac.jp）のポート80番に直接接続
 	 *
+	 *
 	 */
 
 	struct hostent *server_host;
